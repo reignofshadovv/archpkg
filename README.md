@@ -1,0 +1,2 @@
+# archpkg
+pkg list installer
